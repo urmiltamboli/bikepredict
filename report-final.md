@@ -6,7 +6,7 @@ Urmil Tamboli
 In order to submit the prediction, it was important to remove any predictions less than 0 and replace them by 0
 
 ### What was the top ranked model that performed?
-WeightedEnsemble_L3 was ranked top for the first and the second iteration and LightGBMLarge_BAG_L1 ranked top in the third iteration but overall performance of WeightedEnsemble_L3 was better and it gave a better score
+WeightedEnsemble_L3 was ranked top for for all the three iterations
 
 ## Exploratory data analysis and feature creation
 ### What did the exploratory analysis find and how did you add additional features?
